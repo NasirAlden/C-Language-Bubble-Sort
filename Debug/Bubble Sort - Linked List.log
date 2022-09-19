@@ -1,0 +1,5 @@
+﻿  Bubble-Sort-Linked-List.c
+C:\Users\User\source\repos\Bubble Sort - Linked List\Bubble-Sort-Linked-List.c(230,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\Bubble Sort - Linked List\Bubble-Sort-Linked-List.c(240,16): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+C:\Users\User\source\repos\Bubble Sort - Linked List\Bubble-Sort-Linked-List.c(242,16): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+  Bubble Sort - Linked List.vcxproj -> C:\Users\User\source\repos\Linked List\Debug\Bubble Sort - Linked List.exe
